@@ -1,0 +1,8 @@
+1) Trouver un typhon donné et regarder / afficher les données sur cette période 
+2) Générer la trajectoire / video / gif / de ce joli petit typhon 
+3) Trouver les typhons (métriques, différence toussa)
+4) Catégoriser les typhons (intensité, direction, durée)
+5) Tâche de machine learning : prédire les caractéristique du typhon dès le début.
+6) aller plus loin, prédire le futur à partir du passé / présent
+7) Big sesh
+
